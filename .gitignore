@@ -1,0 +1,5 @@
+.venv
+**/__pycache__
+
+app/fas_utils/resources/anti_spoof_models
+app/fas_utils/resources/detection_model
